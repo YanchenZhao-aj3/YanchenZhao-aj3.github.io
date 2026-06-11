@@ -1,5 +1,4 @@
----
-title: KaTeX
+---title: "KaTeX"
 ---
 # KaTeX
 

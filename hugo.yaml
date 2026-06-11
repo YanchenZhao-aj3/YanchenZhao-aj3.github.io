@@ -1,7 +1,7 @@
 # hugo server --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL: https://vouchercode.github.io/
-title: vouchercode
+baseURL: https://YanchenZhao-aj3.github.io/
+title: AI中转站汇总
 theme: hugo-book
 
 # --- 核心优化设置 (新增) ---
@@ -49,7 +49,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/vouchercode/vouchercode.github.io
+  BookRepo: https://github.com/YanchenZhao-aj3/YanchenZhao-aj3.github.io
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.

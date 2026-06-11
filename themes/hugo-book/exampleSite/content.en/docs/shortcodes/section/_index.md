@@ -1,5 +1,4 @@
----
-bookCollapseSection: true
+---bookCollapseSection: true
 ---
 
 # Section

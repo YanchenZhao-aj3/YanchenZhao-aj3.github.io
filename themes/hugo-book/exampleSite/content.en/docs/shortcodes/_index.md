@@ -1,3 +1,2 @@
----
-bookFlatSection: true
+---bookFlatSection: true
 ---

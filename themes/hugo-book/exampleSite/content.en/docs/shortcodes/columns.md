@@ -1,19 +1,10 @@
-# Columns
-
-Columns help organize shorter pieces of content horizontally for readability.
-
-
-```html
-{{</* columns */>}} <!-- begin columns block -->
-# Left Content
-Lorem markdownum insigne...
-
-<---> <!-- magic separator, between columns -->
+---> <!-- magic separator, between columns -->
 
 # Mid Content
 Lorem markdownum insigne...
 
-<---> <!-- magic separator, between columns -->
+<
+---> <!-- magic separator, between columns -->
 
 # Right Content
 Lorem markdownum insigne...
